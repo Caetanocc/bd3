@@ -2,7 +2,7 @@
 # Material de Apoio
 
 ## MongoDB
-https://learn.mongodb.com/learn/course/mongodb-for-sql-experts/
+https://learn.mongodb.com/learn/course/mongodb-for-sql-experts/ <br>
 https://learn.mongodb.com/learning-paths/atlas-essentials
 
 ## Data Science Academy
