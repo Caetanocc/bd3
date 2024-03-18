@@ -4,7 +4,7 @@ Vamos retomar o projeto de exemplo da Introdução ao MongoDB.
 Editar o arquivo **server.js** para incluir novas APIs
 ### 1. API para obter json da collection aluno 
 
-No arquivo server.js após o bloco **api/data/** incluir o código:
+No arquivo **server.js** após o bloco **api/data/** incluir o código:
 
 ```bash
 app.get('/api/alunos', async (req, res) => {
@@ -86,7 +86,7 @@ app.delete('/api/alunos/:id', async (req, res) => {
 
 ### 4. Vamos criar um html para testar as APIs MongoBB
 
-Crie um novo arquivo cad.html usando por exemplo esse código
+Crie um novo arquivo **cad.html** usando por exemplo esse código
 
 ```bash
 
@@ -187,6 +187,11 @@ Crie um novo arquivo cad.html usando por exemplo esse código
 
 
 ```
+
+### 5. Fazer testes com cad.html para validar o acesso aos dados e incluir e excluir alunos.
+
+### 6. Melhorar o código, separar a parte javascript em arquivos.
+
 
 
 
