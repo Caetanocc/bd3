@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "descricao": "Tênis de Corrida",
+    "categoria": "Calçados",
+    "unidade_de_medida": "Par",
+    "marca": "Nike",
+    "preco": 299.99,
+    "qtde_estoque": 100
+  },
+  {
+    "id": 2,
+    "descricao": "Camiseta de Futebol",
+    "categoria": "Vestuário",
+    "unidade_de_medida": "Unidade",
+    "marca": "Adidas",
+    "preco": 49.99,
+    "qtde_estoque": 200
+  },
+  {
+    "id": 3,
+    "descricao": "Bola de Basquete",
+    "categoria": "Equipamentos Esportivos",
+    "unidade_de_medida": "Unidade",
+    "marca": "Wilson",
+    "preco": 29.99,
+    "qtde_estoque": 50
+  },
+  {
+    "id": 4,
+    "descricao": "Luvas de Boxe",
+    "categoria": "Equipamentos de Proteção",
+    "unidade_de_medida": "Par",
+    "marca": "Everlast",
+    "preco": 69.99,
+    "qtde_estoque": 75
+  }
+]

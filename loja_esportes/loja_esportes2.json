@@ -1,0 +1,236 @@
+[
+  {
+    "id": 5,
+    "descricao": "Raquete de Tênis",
+    "categoria": "Equipamentos Esportivos",
+    "unidade_de_medida": "Unidade",
+    "marca": "Wilson",
+    "preco": 129.99,
+    "qtde_estoque": 20
+  },
+  {
+    "id": 6,
+    "descricao": "Shorts de Corrida",
+    "categoria": "Vestuário",
+    "unidade_de_medida": "Unidade",
+    "marca": "Asics",
+    "preco": 39.99,
+    "qtde_estoque": 150
+  },
+  {
+    "id": 7,
+    "descricao": "Caneleira",
+    "categoria": "Equipamentos de Proteção",
+    "unidade_de_medida": "Par",
+    "marca": "Nike",
+    "preco": 19.99,
+    "qtde_estoque": 100
+  },
+  {
+    "id": 8,
+    "descricao": "Bola de Futebol",
+    "categoria": "Equipamentos Esportivos",
+    "unidade_de_medida": "Unidade",
+    "marca": "Nike",
+    "preco": 24.99,
+    "qtde_estoque": 80
+  },
+  {
+    "id": 9,
+    "descricao": "Bicicleta MTB",
+    "categoria": "Equipamentos Esportivos",
+    "unidade_de_medida": "Unidade",
+    "marca": "Specialized",
+    "preco": 1499.99,
+    "qtde_estoque": 10
+  },
+  {
+    "id": 10,
+    "descricao": "Bola de Vôlei",
+    "categoria": "Equipamentos Esportivos",
+    "unidade_de_medida": "Unidade",
+    "marca": "Mikasa",
+    "preco": 34.99,
+    "qtde_estoque": 30
+  },
+  {
+    "id": 11,
+    "descricao": "Luvas de Goleiro",
+    "categoria": "Equipamentos de Proteção",
+    "unidade_de_medida": "Par",
+    "marca": "Uhlsport",
+    "preco": 49.99,
+    "qtde_estoque": 60
+  },
+  {
+    "id": 12,
+    "descricao": "Bermuda de Natação",
+    "categoria": "Vestuário",
+    "unidade_de_medida": "Unidade",
+    "marca": "Speedo",
+    "preco": 29.99,
+    "qtde_estoque": 90
+  },
+  {
+    "id": 13,
+    "descricao": "Squeeze",
+    "categoria": "Acessórios",
+    "unidade_de_medida": "Unidade",
+    "marca": "Caramanhola",
+    "preco": 9.99,
+    "qtde_estoque": 200
+  },
+  {
+    "id": 14,
+    "descricao": "Corda de Pular",
+    "categoria": "Equipamentos Esportivos",
+    "unidade_de_medida": "Unidade",
+    "marca": "Everlast",
+    "preco": 14.99,
+    "qtde_estoque": 120
+  },
+  {
+    "id": 15,
+    "descricao": "Caneleira com Tornozeleira",
+    "categoria": "Equipamentos de Proteção",
+    "unidade_de_medida": "Par",
+    "marca": "Pretorian",
+    "preco": 29.99,
+    "qtde_estoque": 80
+  },
+  {
+    "id": 16,
+    "descricao": "Mochila Esportiva",
+    "categoria": "Acessórios",
+    "unidade_de_medida": "Unidade",
+    "marca": "Nike",
+    "preco": 49.99,
+    "qtde_estoque": 70
+  },
+  {
+    "id": 17,
+    "descricao": "Prancha de Surf",
+    "categoria": "Equipamentos Esportivos",
+    "unidade_de_medida": "Unidade",
+    "marca": "Channel Islands",
+    "preco": 399.99,
+    "qtde_estoque": 15
+  },
+  {
+    "id": 18,
+    "descricao": "Joelheira de Vôlei",
+    "categoria": "Equipamentos de Proteção",
+    "unidade_de_medida": "Par",
+    "marca": "Asics",
+    "preco": 24.99,
+    "qtde_estoque": 50
+  },
+  {
+    "id": 19,
+    "descricao": "Touca de Natação",
+    "categoria": "Equipamentos de Proteção",
+    "unidade_de_medida": "Unidade",
+    "marca": "Speedo",
+    "preco": 9.99,
+    "qtde_estoque": 100
+  },
+  {
+    "id": 20,
+    "descricao": "Garrafa Térmica",
+    "categoria": "Acessórios",
+    "unidade_de_medida": "Unidade",
+    "marca": "Termolar",
+    "preco": 19.99,
+    "qtde_estoque": 150
+  },
+  {
+    "id": 21,
+    "descricao": "Protetor Bucal",
+    "categoria": "Equipamentos de Proteção",
+    "unidade_de_medida": "Unidade",
+    "marca": "Shock Doctor",
+    "preco": 14.99,
+    "qtde_estoque": 70
+  },
+  {
+    "id": 22,
+    "descricao": "Rede de Tênis",
+    "categoria": "Equipamentos Esportivos",
+    "unidade_de_medida": "Unidade",
+    "marca": "Artengo",
+    "preco": 49.99,
+    "qtde_estoque": 25
+  },
+  {
+    "id": 23,
+    "descricao": "Colete de Treinamento",
+    "categoria": "Equipamentos Esportivos",
+    "unidade_de_medida": "Unidade",
+    "marca": "Decathlon",
+    "preco": 59.99,
+    "qtde_estoque": 40
+  },
+  {
+    "id": 24,
+    "descricao": "Barra de Proteína",
+    "categoria": "Suplementos",
+    "unidade_de_medida": "Unidade",
+    "marca": "Optimum Nutrition",
+    "preco": 2.99,
+    "qtde_estoque": 300
+  },
+  {
+    "id": 25,
+    "descricao": "Rede de Vôlei",
+    "categoria": "Equipamentos Esportivos",
+    "unidade_de_medida": "Unidade",
+    "marca": "Mikasa",
+    "preco": 59.99,
+    "qtde_estoque": 20
+  },
+  {
+    "id": 26,
+    "descricao": "Bola de Handebol",
+    "categoria": "Equipamentos Esportivos",
+    "unidade_de_medida": "Unidade",
+    "marca": "Select",
+    "preco": 39.99,
+    "qtde_estoque": 30
+  },
+  {
+    "id": 27,
+    "descricao": "Meião de Futebol",
+    "categoria": "Vestuário",
+    "unidade_de_medida": "Par",
+    "marca": "Puma",
+    "preco": 9.99,
+    "qtde_estoque": 120
+  },
+  {
+    "id": 28,
+    "descricao": "Sunga de Natação",
+    "categoria": "Vestuário",
+    "unidade_de_medida": "Unidade",
+    "marca": "Speedo",
+    "preco": 19.99,
+    "qtde_estoque": 80
+  },
+  {
+    "id": 29,
+    "descricao": "Bastão de Baseball",
+    "categoria": "Equipamentos Esportivos",
+    "unidade_de_medida": "Unidade",
+    "marca": "Rawlings",
+    "preco": 29.99,
+    "qtde_estoque": 40
+  },
+  {
+    "id": 30,
+    "descricao": "Caneleira de MMA",
+    "categoria": "Equipamentos de Proteção",
+    "unidade_de_medida": "Par",
+    "marca": "Hayabusa",
+    "preco": 39.99,
+    "qtde_estoque": 60
+  }
+]
