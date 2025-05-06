@@ -110,7 +110,7 @@ node server.js
 ```
 Isso iniciará o servidor na porta especificada (3000, neste exemplo).
 
-### 5. Criar app web  HTML para listar as coleções "aluno" e "professor" 
+### 5. Criar app web  arquivo **index.html** para listar as coleções "aluno" e "professor" 
 
 ```html
 <!DOCTYPE html>
@@ -158,11 +158,12 @@ Isso iniciará o servidor na porta especificada (3000, neste exemplo).
 </html>
 ```
 
-### 6. Execute o arquivo Web 
+### 6. Execute o arquivo Web via vscode , execute index.html clicando no **Go live** 
 
 De preferência use vscode para editar esse arquivo, pode fazer melhorias, como separar o javascript.
 
 Execute com GoLive ou semelhante para ver o resultado.
+
 Deve mostrar o conteúdo das collections professor e aluno do MongoDB.
 
 
