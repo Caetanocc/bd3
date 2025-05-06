@@ -4,7 +4,7 @@ Vamos retomar o projeto de exemplo da Introdução ao MongoDB.
 Editar o arquivo **server.js** para incluir novas APIs
 ### 1. API para obter json da collection aluno 
 
-No arquivo **server.js** após o bloco **api/data/** incluir o código:
+Edite arquivo **server.js** após o bloco **api/data/** incluir o código:
 
 ```bash
 app.get('/api/alunos', async (req, res) => {
