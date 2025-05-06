@@ -45,12 +45,17 @@ Para isso, vou usar Node.js e Express.js como exemplo.
 
    instale a biblioteca `cors` necessária para app web acessar o server node.js :
 
-  ```bash
-  npm install cors
-  ```
-   
+     ```bash
+     npm install cors
+     ```
 
-5. Crie um arquivo JavaScript chamado `server.js` na sua pasta do projeto e adicione o seguinte código:
+5. Abrar o vscode com o comando
+     ```
+      code .
+     ```
+  
+6. Crie um arquivo JavaScript chamado `server.js` na sua pasta do projeto e adicione o seguinte código:
+   
 
    ```bash
       const express = require('express');
