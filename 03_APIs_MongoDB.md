@@ -192,13 +192,36 @@ Crie um novo arquivo **cad.html** usando por exemplo esse código
 
 ### 6. Melhorar o código, separar a parte javascript em arquivos.
 
+### 7. Corrigir eventuais erros de funcionamento:
 
+Editar o arquivo **server.js**
 
+a. Importar ObjectId do driver do MongoDB. No topo do seu server.js, adicione:
 
+```
+const { ObjectId } = require('mongodb');
+```
 
+b. Incluir bloco para obter id de um aluno após bloco **app.delete**    
 
-
-
+```
+// Rota para buscar um aluno pelo ID
+app.get('/api/alunos/:id', async (req, res) => {
+    try {
+        const { id } = req.params;
+        const { db, client } = await connectDB();
+        const aluno = await db.collection('aluno').findOne({ _id: new ObjectId(id) });
+        client.close();
+        if (!aluno) {
+            return res.status(404).json({ message: 'Aluno não encontrado' });
+        }
+        res.json(aluno);
+    } catch (error) {
+        console.error('Erro ao buscar aluno:', error);
+        res.status(500).json({ error: 'Erro ao buscar aluno' });
+    }
+});
+```
 
 
 
