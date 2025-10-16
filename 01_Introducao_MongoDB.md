@@ -5,7 +5,18 @@
 Clique no botão **"New Connection"** para se conectar ao servidor MongoDB local (geralmente, você pode usar a configuração padrão: host localhost e porta 27017).
 Após se conectar, clique em **"Create Database"** e crie um novo banco de dados chamado **"EtecLab"**.
 
-### 2.Criar 2 collections:  aluno (nome, rm, curso) e professor (nome, cpf, datanasc) .
+### 2.Criar 2 collections:  
+
+aluno (nome, ra, curso) 
+```
+db.aluno.insertOne( {nome: "Nome do aluno", ra : "12345", curso: "DS" })
+```
+
+professor (nome, cpf, datanasc) 
+
+```
+db.professor.insertOne( {nome: "Claudiomiro Caetano", cpf : "125252345", datanasc: "1973-01-01" })
+```
 
 ### 3. Criar servidor node express para acesso ao MongoDB
 
